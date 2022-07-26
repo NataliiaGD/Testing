@@ -1,0 +1,37 @@
+Bug reports
+
+ID - 001
+Title: Chat icon and scroll arrow are not aligned
+Environment: iPhone XR, Samsung Galaxy S20 Ultra
+Severity: Minor
+Priority: Medium
+Steps to reproduce: 
+Go to https://planetakino.ua/ 
+Scroll down
+Pay attention on the chat icon and scroll arrow
+Actual result: Chat icon and scroll arrow are not aligned
+Expected result: Chat icon and scroll arrow are aligned with respect to each other
+
+ID: 002
+Title: The films’ posters in carousel is partly hidden under the main menu
+Environment: MacBook Air, Google Chrome browser
+Severity: Minor
+Priority: High
+Steps to reproduce:
+Go to https://planetakino.ua/ 
+Pay attention to films’ posters in the posters carousel
+Actual result: Posters in the carousel are partly hidden under the main menu
+Expected result: Posters have to be displayed in full size
+
+ID: 003
+Title: Some of the film’s posters are not displayed because of broken image
+Environment: MacBook Air, Google Chrome browser
+Severity: Critical
+Priority: High
+Steps to reproduce:
+Go to https://planetakino.ua/ 
+Click on the search field button
+Enter “30” to the search field
+Pay attention to films posters
+Actual result: Some films posters are not displayed because of broken images
+Expected result: Films posters have to be displayed correct

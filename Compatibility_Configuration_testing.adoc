@@ -1,0 +1,253 @@
+*1) Identify 4 the most relevant configurations for testing any online
+store based on collected statistics or experience on the most popular
+browsers, OS, devices, etc.*
+
+* {blank}
++
+____
+Windows - Google Chrome
+____
+* {blank}
++
+____
+MacOS - Safari
+____
+* {blank}
++
+____
+Windows - Edge
+____
+* {blank}
++
+____
+Windows - Firefox
+____
+
+*2) Write a checklist that should contain at least 5 checks for each
+selected part (for example, header, content, footer, log in,
+registration). There should be three parts.*
+
+*Checklist -* Rozetka.com.ua
+
+*Header*
+
+* {blank}
++
+____
+Check that the burger menu opens when clicking on the burger menu button
+____
+* {blank}
++
+____
+Check that it is possible to enter some text to the search field
+____
+* {blank}
++
+____
+Check that the “Search” button is clickable
+____
+* {blank}
++
+____
+Check if after clicking on the “user” icon user-identification window
+appear when the user isn’t logged in
+____
+* {blank}
++
+____
+Check if “Bin” opens after clicking on the “bin” icon
+____
+
+*Content*
+
+* {blank}
++
+____
+Check the carousel images
+____
+* {blank}
++
+____
+Check the main-categories list
+____
+* {blank}
++
+____
+Check if the buttons in the main-categories list are clickable
+____
+* {blank}
++
+____
+Check if the buttons from the main catalog redirect to the necessary
+category
+____
+* {blank}
++
+____
+Check if the sale deals appear in the content menu
+____
+
+*Footer*
+
+* {blank}
++
+____
+Check if the button “Download from the Google Play” redirects to the
+Play Store
+____
+* {blank}
++
+____
+Check if the button “Download from the App Store” redirects to the
+AppStore
+____
+* {blank}
++
+____
+Check if the “Social Media” buttons redirect to the corresponding social
+media
+____
+* {blank}
++
+____
+Check if the links from the block “Information about work” are clickable
+____
+* {blank}
++
+____
+Check if the links from the block “Services” are clickable
+____
+* {blank}
++
+____
+Check if the links from the block “Help” are clickable
+____
+* {blank}
++
+____
+Check if the links from the block “To partners” are clickable
+____
+
+*3) Check the checklist in the following browsers, paying particular
+attention to the GUI in each browser (Safari, Google Chrome, Opera)*
+
+[cols=",,,",options="header",]
+|===
+|Checklist |Safari (15.5 (17613.2.7.1.8)) |Google Chrome (102.0.5005.61)
+|Opera (87.0.4390.45)
+|1.Font size validation |Passed |Passed |Passed
+
+|2.Page layout in different resolutions |Passed |Passed |Passed
+
+|3.All images and alignment |Passed |Passed |Passed
+
+|4.Page content alignment to center |Passed |Passed |Passed
+
+|5.Check if the “Social Media” buttons redirect to the corresponding
+social media |Passed |Passed |Passed
+
+|6. Date formats |Passed |Passed |Passed
+
+|7. Page zoom-in and zoom-out functionality |Failed |Failed |Failed
+
+|8. Check the carousel images |Passed |Passed |Passed
+
+|9. Check the main-categories list |Passed |Passed |Passed
+
+|10. Check if the buttons in the main-categories list are clickable
+|Passed |Passed |Passed
+
+|11. Check if the buttons from the main catalog redirect to the
+necessary category |Passed |Passed |Passed
+
+|12. Check if the sale deals appear in the content menu |Passed |Passed
+|Passed
+
+|13. Check that the burger menu opens when clicking on the burger menu
+button |Passed |Passed |Passed
+
+|14. Check that it is possible to enter some text to the search field
+|Passed |Passed |Passed
+
+|15. Check if after clicking on the “user” icon user-identification
+window appear when user isn't logged in |Passed |Passed |Passed
+|===
+
+*4) Find and create defects*
+
+*ID* - 001
+
+*Title* - During zooming-out of the main page - the main menu shifts
+down
+
+*Severity* - Low
+
+*Priority* - Low
+
+*Environment* - MacOS, Google Chrome - Version 102.0.5005.61, Opera -
+Version:87.0.4390.45
+
+*Steps to reproduce*
+
+* {blank}
++
+____
+Go to Rozetka.com.ua
+____
+* {blank}
++
+____
+Zoom-out the main page
+____
+* {blank}
++
+____
+Pay attention to the main menu
+____
+
+*Actual result* - the main menu shifts down during zooming-out main page
+
+*Expected result* - the main menu has to locate according to other
+elements during zooming-out
+
+**Attachment:**image:vertopal_d27e34b999f14b72aa910a2adafd43a3/media/image2.png[image,width=277,height=255]
+
+*ID* - 002
+
+*Title* - During zooming-out of main page - the button’s text “Увійдіть
+в особистий кабінет” is partially hidden
+
+*Severity* - Low
+
+*Priority* - Low
+
+*Environment* - MacOS, Safari browser, Version 15.5 (17613.2.7.1.8)
+
+*Steps to reproduce*
+
+* {blank}
++
+____
+Go to Rosetka.com.ua
+____
+* {blank}
++
+____
+Zoom-out the main page
+____
+* {blank}
++
+____
+Pay attention to the button “Увійдіть в особистий кабінет” under the
+main menu
+____
+
+*Actual result* - the button text “Увійдіть в особистий кабінет” is
+partially hidden
+
+*Expected result* - the button’s text doesn’t has to change during
+zooming-out
+
+*Attachment:*
+
+image:vertopal_d27e34b999f14b72aa910a2adafd43a3/media/image1.png[image,width=224,height=435]

@@ -1,0 +1,20 @@
+     https://planetakino.ua/ 
+     Check lists UI
+Verify font sizes on the main menu 
+Verify font types on the main menu 
+Verify that there are not more than 3 fonts on the page
+Verify that there are not more than 3 font sizes on the page
+Check elements aligments
+Check margins between grid elements
+Check the button’s size
+Check the button’s color 
+Verify localisation 
+Verify default language
+Verify social media buttons on the footer
+Check that inactive buttons displayed in grey color
+Check that the scroll button appears when it needs
+Check the alignments of elements on different display layout
+Check the alignments of elements on different devices
+Verify that logo redirects to the main page
+Check if each movie has its own poster
+Main page should have a title

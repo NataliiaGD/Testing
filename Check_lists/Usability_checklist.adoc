@@ -1,0 +1,38 @@
+Usability checklist for - “Facebook.com”
+
+Pre-condition - User already logged in
+
+Environment - production
+
+Browser - Google Chrome, 102.0.5005.61
+
+[cols=",",options="header",]
+|===
+|*Navigation checks* |Pass/Fail
+|1.Verify that main menu is accessible from all application pages
+|Passed
+
+|2.Verify logo is present on all pages |Passed
+
+|3.Check that logo leads to the main page |Passed
+
+|4.Check that all pages are accessible |Passed
+
+|5.Check that search is present and works |Passed
+
+|*Content* |
+
+|6.Check that Help (FAQ) page is available |Passed
+
+|7.Check fonts of the content elements of each level |Passed
+
+|8.Check the possibility to chow comments according to date - from
+oldest to newest |Failed
+
+|9.Check content alignments |Passed
+
+|10.Check that main functions are easy to navigate to |Passed
+
+|11.Check that news in news feed appears according to date - from newest
+to oldest |Failed
+|===

@@ -1,0 +1,38 @@
+[cols=",",options="header",]
+|===
+|- Create a checklist for testing mobile features for the site, execute
+checklist on mobile device |
+| |
+
+|Website - https://virpp.com/explore[+++https://virpp.com/explore+++] |
+
+|Environment - iPhone 11, iOS - 15.5 |
+
+| |
+
+|Checklist |Status
+
+|1. Check the elements with landscape&portrait mode |Failed
+
+|2. Ensure that text, images and conrols are aligned |Passed
+
+|3. Ensure that conrols are tap-friendly and big-enough for finger taps
+|Passed
+
+|4. Ensure that navigation elements don't run or overflow edges of the
+screen |Passed
+
+|5. Ensure that page content that is important appears on all devices
+|Passed
+
+|6. Make sure the content scrolls and displays properly |Passed
+
+|7. Make sure the user can navigate using swipe gestures |Passed
+
+|8.Ensure important content appears before other supporting content
+|Passed
+
+|9. Check the animation elements with landscape&portrait mode |Failed
+
+|10. Ensure that all text content is readable |Passed
+|===
